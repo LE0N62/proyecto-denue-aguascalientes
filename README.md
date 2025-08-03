@@ -83,10 +83,13 @@ Editar
     └── visualizacion_mapa.png
 📄 README.md
 👥 Créditos
-Alumno: [Tu nombre aquí]
+Alumnos: Luis David Camarillo Leon
+Juan Carlos Arias Camarena
+Francisco Fabian Rodriguez Sanchez
+Adrian Juarez Moreno
 
-Materia: Análisis y visualización de datos
+Materia: Bases de datos para computo en la nube
 
-Profesor: [Nombre del profesor]
+Profesor: Ruth Marcela Romero Rojas
 
-Institución: [Nombre de la escuela]
+Institución: Universidad Tecnologica Fidel Velazquez
